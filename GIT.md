@@ -22,8 +22,6 @@
 >
 >This is a standard TIP.
 
-This is a standard TIP.
-CopyToggle Text Wrapping
 >[!IMPORTANT]
 >
 >This is an IMPORTANT note
