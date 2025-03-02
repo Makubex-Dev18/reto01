@@ -27,3 +27,15 @@ CopyToggle Text Wrapping
 >[!IMPORTANT]
 >
 >This is an IMPORTANT note
+
+##Flujo del acp´
+
+#hacer un status previamente#
+
+´´´´
+git add .
+
+git commit -m "este es un comentario con lo que se quiere describir del commit"
+
+git push -u origin [rama]
+´´´
